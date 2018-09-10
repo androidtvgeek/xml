@@ -1,0 +1,93 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------V 1.0------------------------------
+--------Bearded Bandits Info/Help/Tips--------
+--------Free the People, Free the World!--------
+----------------------------jewbmx@gmail.com-------
+--------------------------------------------------------------------
+
+(This help file is hosted online so it can be updated.)
+(Check the top for the current app version released.)
+
+*Need help or wanna contact me for any other reaaon? feel free to email me.
+(If you would like a custom list or anything added to the app then hit me up.)
+
+*Wanna shut this Help option off and remove it from the Main Menu?
+(Goto settings and disable the Help Dialog. app looks better without it lol.)
+
+*Clear the Cache every once in a while. Its in the app Settings under its own Tab.
+---Also located in the Quick Tools Menu for easy access.
+(Once a week or month is Advised.)
+(If the app laggs alot then it might be time.)
+(I clear mine every day but thats me.)
+
+*Little trick that works most the time is to click play on the same item again after it fails.
+---The second attempt usually pulls with less work and can find a source easier. 
+(Doesn't work 100% of the time. meant for stuff that you know should be available.)
+---Also for when you find those 'rare' mismatch items to watch/play.
+(like the movie 'Unforgiven' by C. Eastwood from 1992 gets scrambled with the 2013 Japanese one by Lee Sang.)
+(another is TV Show 'Bunnicula' has messed up season lists in alot of addons and plays the wrong episode sometimes.)
+---If a movie doesnt play or cant find any sources just wait a few days or check its release date. Problem might be that simple.
+
+*Addons like this one and many others are quite busy doing alot of stressful stuff. take your time and be chill.
+(Try to imagine a 3-5 second cooldown timer after any command is done to help prevent errors and crashes.)
+ 
+*If you click something and your sitting around still waiting after 2 minutes have passed, then its probably safe to say that the choice failed.
+(Could also be a Cache issue. Unless your just too high and didnt even click anything but thought you did lol. which can happens quite often.)
+
+*First glance thru the options and your like damn why so many sources? easy because why not.
+---Some sources dont have what i want so i check the next source, and most the time find what i want lol.
+(getting it to play is another story lol. rip to all the great classics that are hard to find.)
+
+
+-----Settings-----
+*The Settings for this app are(should be) set up as a 2 click auto play. 1st one to start the process, 2nd for hd/sd choice.
+
+*Want to stop selecting hd or sd every time? Change the Select Link setting to your choice instead of Both.
+
+*Want to choose the site you watch from? Enable the link selection dialog Setting in the Scrapers Tab.
+
+*The link selection fallthrough Setting in the Scrapers Tab is very handy and advised to stay Enabled.
+(Makes life much easier.)
+
+*In the Settings Resolvers Tab there are a few options you can Enable in the 'Filtering Options' if you want more streaming sources.
+(I keep all the Filtering Options Disabled personally. Those are the sources that need you to pair your shit.)
+(sometimes one might slip through the fliter, just hit cancel if it happens.)
+
+*The API Settings are important and already setup with my API's. Dont remove them unless you have your own to put in.
+ (Sort of advanced and not something a normal user should have to mess with.)
+ 
+ 
+-----Standard Info-----
+*The Main Menu options like Movies and TV Shows are mostly filled with just scrapper stuff like a common app.
+---Added the best TV Show option ever called CatchUp Calendar.
+---Added 2018, 2019, and 2020 to Years section for a head start on great movies.
+
+*The CarToon Section houses a huge ammount of anime, cartoons, movies, and about anything else child friendly.
+---Made sure not to add my bottom menu bar to this section so the kiddos cant go clicking away.
+---Went ahead and labeled the options that are large lists for you so you can be prepared lol.
+
+*The JewZone Section is where you will find all the special stuff. Plus my favorite stuff too.
+ ---The JewZone Menu features a custom tv networks list, made up of my favorite networks.
+(broken down into mutiple lists so i could place them in the other rightful places for ease.)
+(Theres also a Web Channels list from TVmaze because its awesome sauce.)
+---Theres a special page in JewZone called DC / Marvel thats a collection of public lists dedicated to their title.
+---Another one is called My Top5 Trakt Users. which is what it sounds like but all their lists lol.
+(Note: these are very well done lists and seem to stay maintained.)
+(A great thanks from me to each person that made em cause they are dope.)
+---The Hulu/Netflix/Amazon page is exactly what it says and is made up of fantastic lists.
+---Added a page called The Future that is hosted online for easy modifcations without annoying updates.
+(all user requested content will be here, along with any custom or new stuff that i decide to add.)
+---Jew Top 250 TV Shows: is a list of my favorite shows that ive watched and would recommend to others.
+(Wont change but new shows are sure to come around and be added to a new list due to size.)
+---JewFlix: is my version of a Recently Added list and Movie Rental Service. 
+(Updated monthly with a new random list of recommended movies. Both new and old.)
+---JewWatchList: is what im watching lately lol.
+(Updated randomly when I find new stuff to watch and cleaned weekly.)
+---JewList: is a huge collection of all my favorite movies ever seen. might be missing a few but they will be remembered lol.
+(Note that this list is huge so it might load a little slow and be a pain to get thru.)
+---Also tossed in a page that shows ya all my Trakt lists too, incase i make a few new ones.
+
+*Fair warning for those who read this far, there is a Adult section hidden in this addon.
+(I have another addon in my repo that is the CarToon section of this addon if needed.)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
