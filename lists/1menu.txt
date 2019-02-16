@@ -1,0 +1,40 @@
+<xml>
+
+
+<dir>
+    <title>ArconaiTV(SportsDevil)</title>
+    <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/ArconaiTV.txt</link>
+    <thumbnail>https://github.com/jewbmx/xml/blob/master/img/ArconaiTVlogo.png?raw=true</thumbnail>
+</dir>
+
+
+<dir>
+    <title>FluxusTV</title>
+    <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/FluxusIPTV.txt</link>
+    <thumbnail>https://1.bp.blogspot.com/-_-7n-gpLtrc/W9UZEG7eOKI/AAAAAAAAEJY/8Wue7tEfF283fMa0J1WvdGFQQ02a5MRQgCLcBGAs/s1600/fluxustv.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>StratusTV</title>
+    <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/StratusTV.txt</link>
+    <thumbnail>https://4.bp.blogspot.com/-oQNkqrqPQ98/W1jECk8g7YI/AAAAAAAADjU/FxPmjwup0QI6_2ni2icom0WpHSpx2gt2gCLcBGAs/s1600/Stratus_TV_Playlist.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>LodgeTV</title>
+    <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/LodgeTV.txt</link>
+    <thumbnail>https://4.bp.blogspot.com/-Eg90Vh8Redo/W1jD5cl7sVI/AAAAAAAADjQ/b0uHeL1gjkkwKvqjhS-X0LpLqzVgPqaaACLcBGAs/s1600/LodgeTV_Playlist.png</thumbnail>
+</dir>
+
+
+<plugin>
+    <title>MaxpTV Sports</title>
+    <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/iptvSports.m3u</link>
+    <thumbnail>http://www.jamesons-pattaya.com/sports_header.png</thumbnail>
+</plugin>
+
+
+</xml>
+

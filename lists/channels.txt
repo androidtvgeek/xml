@@ -1,0 +1,187 @@
+<xml>
+
+
+<item>
+    <title>A & E</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=172</link>
+    <thumbnail>https://i.pinimg.com/originals/32/27/ee/3227ee88cef4f83233a6da89ed44ad89.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>ABC</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=2</link>
+    <thumbnail>https://cdn1.edgedatg.com/aws/abc/brand/fall2018/abc-share-OG_170x170.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>AMC</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=6</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/59347f6143ba9_amc-logo-2016.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>ANIMAL PLANET</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=9</link>
+    <thumbnail>https://i.pinimg.com/736x/ce/dd/23/cedd231aa3022800f01f478480bb9235--planet-pictures-animal-logo.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>BRAVO TV</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=124</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1280px-Bravo_2017_logo.svg.png</thumbnail>
+</item>
+
+
+<item>
+    <title>CBS</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=25</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/593485751fff5_cbs.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>CNBC</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=123</link>
+    <thumbnail>https://image.roku.com/channels/images/19cb75e47b704b6186d1ea11b7a4c234-hd.png</thumbnail>
+</item>
+
+
+<item>
+    <title>COMEDY CENTRAL</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=30</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/59348555e920b_comedy%20central.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>DISCOVERY CHANNEL</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=35</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/593485373f617_discovery.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>ESPN</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=40</link>
+    <thumbnail>https://hd-report.com/wp-content/uploads/2010/01/espn_logo_rev-300x300.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>FOX</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=43</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/593484f21e3eb_fox.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>FOX NEWS</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=44</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/593484deaa5b2_foxnews.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>FREEFORM</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=52</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/595e8c3aebc4a_Webp.net-resizeimage%20(2).jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>FX</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=49</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/593484c747d91_fx.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>NATIONAL GEOGRAPHIC</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=67</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/593483be36140_nat%20geoo.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>NBC</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=122</link>
+    <thumbnail>https://www.tvweek.com/wp-content/uploads/2015/11/nbc-olympics.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>NICKELODEON</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=69</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/5934839092480_nick.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>PBS</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=71</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/59348371110c7_pbs.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>SPIKE TV</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=85</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/593482fb2f6fa_spike.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>SUNDANCE TV</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=131</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/5a21b42b8b856_Webp.net-resizeimage.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>SYFY</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=121</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/5a0dda42d57b6_syfy.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>THE CW</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=92</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/5934828bb3288_cw.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>TLC</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=130</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/5a21b2aae5f0b_tlc2.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>UNIVERSAL CHANNEL</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=58</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/595e8b62306ce_Webp.net-resizeimage%20(1).jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>USA NETWORK</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=120</link>
+    <thumbnail>https://www.countdownuntilchristmas.com/wp-content/uploads/2011/11/usa-network-christmas-tv-schedule-300x425.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>WWOR TV</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=129</link>
+    <thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/8/86/WWOR-TV_Apr-Sep_1987.svg/revision/latest/scale-to-width-down/175?cb=20150105151108</thumbnail>
+</item>
+
+
+</xml>
+
