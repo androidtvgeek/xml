@@ -1,0 +1,138 @@
+<xml>
+
+
+<item>
+    <title>Random Movies</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=73</link>
+    <thumbnail>https://uproxx.files.wordpress.com/2017/04/zohan-feat-uproxx.jpg?quality=95&w=650</thumbnail>
+</item>
+
+
+<item>
+    <title>Action</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=3</link>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BNjdhOGY1OTktYWJkZC00OGY5LWJhY2QtZmQzZDA2MzY5MmNmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Animation Movies</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=10</link>
+    <thumbnail>https://is1-ssl.mzstatic.com/image/thumb/Video/v4/f3/6b/d2/f36bd2af-c02f-4183-5e95-34e1c5db5e43/pr_source.lsr/268x0w.png</thumbnail>
+</item>
+
+
+<item>
+    <title>Christmas Movies</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=27</link>
+    <thumbnail>https://www.amomstake.com/wp-content/uploads/2015/12/top-christmas-movies-650x1071.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Christmas Special</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=108</link>
+    <thumbnail>https://l.imgt.es/resource-preview-imgs/36ce8be4-cd15-4189-998d-63ec7b2f9195%2FChristmasSpecial.crop_450x338_0%2C56.preview.jpg?profile=max500x190</thumbnail>
+</item>
+
+
+<item>
+    <title>Comedy Movies</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=31</link>
+    <thumbnail>https://www.thoughtco.com/thmb/MlSFcLZuIVyBXtZ0ZWqfk0cOXTc=/600x882/filters:no_upscale()/Dumb-Dumber-5734ab945f9b58723d76bbad.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Documentaries</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=37</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/5934851b355fb_documentary.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Harry Potter</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=51</link>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BNjQ3NWNlNmQtMTE5ZS00MDdmLTlkZjUtZTBlM2UxMGFiMTU3XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Horror Movies</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=54</link>
+    <thumbnail>https://thecinematika.files.wordpress.com/2014/05/peopleunderthestairs.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Mafia Movies</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=59</link>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BYjJlZjYwMjQtMWUwYi00MDYwLWFjOTgtZjk0M2ZkMmVkZGQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Monster Movies</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=156</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/5ad4170dd1782_ewwe33.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Musical Movies</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=63</link>
+    <thumbnail>https://aroundmovies.com/wp-content/uploads/2014/11/Annie_2014_1.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Mystery Movies</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=65</link>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81HHet05-RL._SY445_.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Romance Movies</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=77</link>
+    <thumbnail>https://cdn.loveandmarriageblog.com/wp-content/uploads/2015/05/romancemoviesmain.png</thumbnail>
+</item>
+
+
+<item>
+    <title>SciFi Movies</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=153</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/5ad3a7a7413c5_Sci-Fi.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Star Wars</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=87</link>
+    <thumbnail>https://walter.trakt.tv/images/movies/000/000/007/posters/thumb/a4f84e22e4.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Studio Ghibli</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=88</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/593482bd874c8_studio.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>War Movies</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=154</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/5ad3aaad4274e_dssd-2.jpg</thumbnail>
+</item>
+
+
+<item>
+    <title>Western Movies</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=155</link>
+    <thumbnail>http://www.arconaitv.us/uploads/streams/5ad3ab88b1fcf_sample.jpg</thumbnail>
+</item>
+
+
+</xml>
+

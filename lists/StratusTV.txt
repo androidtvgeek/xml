@@ -1,0 +1,82 @@
+<xml>
+
+
+<dir>
+    <title>Stratus TV - USA + Canada</title>
+    <link>https://pastebin.com/raw/4cQ9mj8X</link>
+    <thumbnail>https://2.bp.blogspot.com/-dmh522gruT8/W1KZ86AruQI/AAAAAAAADhY/zGYXq1VXPBkqMiL6lpGTG8bzIoSXMeTIQCLcBGAs/s280/gettyimages-688899881-1519413300.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Stratus TV - UK + Ireland</title>
+    <link>https://pastebin.com/raw/J1p1Uknd</link>
+    <thumbnail>https://1.bp.blogspot.com/-vuaA4cbRXKY/W1KUx2FW-nI/AAAAAAAADhM/afNbmFsO1IsKU2pZilVeFMBV_t_1KPYaQCLcBGAs/s280/x5cgi0ode66q6vuxezqmehmexwer6bt-xlarge.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Stratus TV - Spain</title>
+    <link>https://pastebin.com/raw/aji3b4dP</link>
+    <thumbnail>https://4.bp.blogspot.com/-u9AigM7a3Cs/W1oWgzaHX8I/AAAAAAAADkQ/FJI1C_ZMjcQ3K_w42VApVIn676VeBxVZwCLcBGAs/s280/gn-gift_guide_variable_c.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Stratus TV - Latino</title>
+    <link>https://pastebin.com/raw/GME4W6j4</link>
+    <thumbnail>https://2.bp.blogspot.com/-iiOc1WD98yE/W1KQdE3zgeI/AAAAAAAADhA/oFnUJ9e1i5odIHk4PHvm3rsE_M_mnYTYQCLcBGAs/s280/https---blueprint-api-production.s3.amazonaws.com-uploads-card-image-676334-5b14efe9-effc-4f52-a25f-dff4f6f55d8a.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Stratus TV - Mexico</title>
+    <link>https://pastebin.com/raw/7QW9f4sz</link>
+    <thumbnail>https://2.bp.blogspot.com/-bAU8H_no7hU/W1KP1hbz6zI/AAAAAAAADg4/oNlTqLsG3v0q5rH38izgNbj_hqu7tG_aQCLcBGAs/s280/7e1943d9-11a2-4211-abfc-242eaa036760.hw1.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Stratus TV - Argentina</title>
+    <link>https://pastebin.com/raw/urbdB0Nq</link>
+    <thumbnail>https://1.bp.blogspot.com/-do7ceSJNs7A/W2jKWDKxZjI/AAAAAAAADns/TsICCezJdVwVpnNd75JBwn_qJty7oa_BgCLcBGAs/s280/4A0BC10000000578-5484797-image-a-3_1520676572273.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Stratus TV - Chile</title>
+    <link>https://pastebin.com/raw/srUrYaE3</link>
+    <thumbnail>https://4.bp.blogspot.com/-5v4vBc3kl4o/W2jK-fwRi_I/AAAAAAAADn0/qq7Ip6NLNeAgsAE_ashoFCqFICWh7VVzQCLcBGAs/s280/29HOURS1-jumbo.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Stratus TV - Colombia</title>
+    <link>https://pastebin.com/raw/T7zsmaQQ</link>
+    <thumbnail>https://1.bp.blogspot.com/-iLHCzYA6Gx8/W2jLcOjjqeI/AAAAAAAADn8/fB8-VQLwTAoUHOMA_Q9I-zdPKYoYAF-LwCLcBGAs/s280/Colombia-Bogota.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Stratus TV - Brazil + Portugal</title>
+    <link>https://pastebin.com/raw/A89MfK78</link>
+    <thumbnail>https://4.bp.blogspot.com/-qu5soEjZxq0/W2jL8hchJvI/AAAAAAAADoI/g2px1igiDxoO8pQxVE1qrKAuKt2Xm9LhwCLcBGAs/s280/rio-de-janeiro-brazil.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Stratus TV - Arab World</title>
+    <link>https://pastebin.com/raw/t1HrSBbf</link>
+    <thumbnail>https://2.bp.blogspot.com/-l6Lh02j_4u4/W1k-fuH0YTI/AAAAAAAADjk/k3szBKuzg488_o0H9hxBlrU-vnp9AQUAgCLcBGAs/s280/b7abf1ff9ee60fb95a6b25ceafbcd236.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Stratus TV - India + Pakistan</title>
+    <link>https://pastebin.com/raw/xaqMHNqm</link>
+    <thumbnail>https://2.bp.blogspot.com/-QfI3525LinA/W1n4psWe9WI/AAAAAAAADj8/qcIz5fTw8dgHUu-mYuzjmxmdkwvA_gQFACLcBGAs/s1600/6.jpg</thumbnail>
+</dir>
+
+
+</xml>
+

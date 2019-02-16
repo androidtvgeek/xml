@@ -1,0 +1,61 @@
+<xml>
+
+
+<dir>
+    <title>Fluxus Cinema English</title>
+    <link>https://pastebin.com/raw/jbqA0j82</link>
+    <thumbnail>https://2.bp.blogspot.com/-CvM-LO7iXBg/W6A1ttZh4oI/AAAAAAAAD7w/ATGTZyju0RsUbu0qXH-jWHFarGmiJd2qgCLcBGAs/s280/user-image-26861871-1507878696-59e06728edd66.jpeg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Fluxus Cinema German</title>
+    <link>https://pastebin.com/raw/RZduJuKQ</link>
+    <thumbnail>https://2.bp.blogspot.com/-weojsNbSgmQ/W6A2vtOQvsI/AAAAAAAAD78/VkuiJnmO4Y0sBWAbK4GI3m3benvPFA4PQCLcBGAs/s280/german-language-movies.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Fluxus Cinema French</title>
+    <link>https://pastebin.com/raw/cWbbtduU</link>
+    <thumbnail>https://2.bp.blogspot.com/-Io8bKo-SvmQ/W6A3gO2QPuI/AAAAAAAAD8E/BxzXTUBKA2IaiP_52XW21utzkgvHchi5ACLcBGAs/s280/french-movies.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Fluxus Cinema Italian</title>
+    <link>https://pastebin.com/raw/JkBfYpXz</link>
+    <thumbnail>https://1.bp.blogspot.com/-lUIbZU139Bk/W6A5CMlUQ0I/AAAAAAAAD8Q/ZQCw6i_gyscc_RgLRIcq6y33J95nMkTjQCLcBGAs/s280/festival_2191.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Fluxus Cinema Spanish</title>
+    <link>https://pastebin.com/raw/U5Nai4hs</link>
+    <thumbnail>https://4.bp.blogspot.com/-Ia25yoLDEZg/W6A6C_BrL3I/AAAAAAAAD8Y/U4X10jygsQsMALcVV3moHf-ZDt4qhqL-gCLcBGAs/s280/cine-espanol.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Fluxus Cinema Portuguese</title>
+    <link>https://pastebin.com/raw/FVAeAC0u</link>
+    <thumbnail>https://1.bp.blogspot.com/-lUIbZU139Bk/W6A5CMlUQ0I/AAAAAAAAD8U/E4eOZiLgat8jEdvy47zIfK9IVMa675xYgCEwYBhgL/s280/festival_2191.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Fluxus Cinema Japanese</title>
+    <link>https://pastebin.com/raw/wF35hqLF</link>
+    <thumbnail>https://2.bp.blogspot.com/-HJyz1zmQTHY/W6A8YNH5RDI/AAAAAAAAD8k/0AWjMuYL5pY1R2c1ZPz6xhNicg3rnTU-ACLcBGAs/s280/7g_13moviescatchjff1600.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Fluxus Cinema Arabic</title>
+    <link>https://pastebin.com/raw/Sig2zWVH</link>
+    <thumbnail>https://1.bp.blogspot.com/-FRebpNurHQI/W6A9w2Q8DWI/AAAAAAAAD8w/mctTb80NUHYXT96JkLmt10ESBluRhfFGgCLcBGAs/s280/57753015749439760-jpg-15445294718296374.jpg</thumbnail>
+</dir>
+
+
+</xml>
+

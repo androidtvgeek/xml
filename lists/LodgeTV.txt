@@ -1,0 +1,26 @@
+<xml>
+
+
+<dir>
+    <title>LodgeTV English Channels</title>
+    <link>https://pastebin.com/raw/2D80tRy5</link>
+    <thumbnail>https://4.bp.blogspot.com/-Eg90Vh8Redo/W1jD5cl7sVI/AAAAAAAADjQ/b0uHeL1gjkkwKvqjhS-X0LpLqzVgPqaaACLcBGAs/s1600/LodgeTV_Playlist.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>LodgeTV Spanish Channels</title>
+    <link>https://pastebin.com/raw/WVyV87rg</link>
+    <thumbnail>https://4.bp.blogspot.com/-Eg90Vh8Redo/W1jD5cl7sVI/AAAAAAAADjQ/b0uHeL1gjkkwKvqjhS-X0LpLqzVgPqaaACLcBGAs/s1600/LodgeTV_Playlist.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>LodgeTV Arabic Channels</title>
+    <link>https://pastebin.com/raw/1BpnNp49</link>
+    <thumbnail>https://4.bp.blogspot.com/-Eg90Vh8Redo/W1jD5cl7sVI/AAAAAAAADjQ/b0uHeL1gjkkwKvqjhS-X0LpLqzVgPqaaACLcBGAs/s1600/LodgeTV_Playlist.png</thumbnail>
+</dir>
+
+
+</xml>
+

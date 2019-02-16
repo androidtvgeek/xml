@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:0,Fox Sports SD
+http://maxptv.ddns.net:25461/live/MA020/0706/143.ts
+#EXTINF:0,Fox Sports HD
+http://maxptv.ddns.net:25461/live/MA020/0706/144.ts
+
+#EXTINF:0,Fox Sports 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/145.ts
+#EXTINF:0,Fox Sports 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/146.ts
+
+#EXTINF:0,Espn SD
+http://maxptv.ddns.net:25461/live/MA020/0706/159.ts
+#EXTINF:0,Espn HD
+http://maxptv.ddns.net:25461/live/MA020/0706/160.ts
+
+#EXTINF:0,Espn 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/161.ts
+#EXTINF:0,Espn 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/162.ts
+
+#EXTINF:0,Espn Brasil SD
+http://maxptv.ddns.net:25461/live/MA020/0706/163.ts
+#EXTINF:0,Espn Brasil HD
+http://maxptv.ddns.net:25461/live/MA020/0706/164.ts
+
+#EXTINF:0,BandSports SD
+http://maxptv.ddns.net:25461/live/MA020/0706/215.ts
+#EXTINF:0,BandSports HD
+http://maxptv.ddns.net:25461/live/MA020/0706/216.ts
+
+#EXTINF:0,Boomerang SD
+http://maxptv.ddns.net:25461/live/MA020/0706/209.ts
+#EXTINF:0,Boomerang HD
+http://maxptv.ddns.net:25461/live/MA020/0706/210.ts
+
