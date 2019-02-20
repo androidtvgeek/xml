@@ -1,27 +1,27 @@
 <xml>
 
-<dir>
+<item>
     <title>S01E01 – “Santee Cooper”</title>
     <link>https://live.nkt.tv/embed?scheme=embedVod&videoId=90&autoplay=no&showChat=no</link>
     <thumbnail>https://2gucxendoeg2g4ktk1g2f5ik-wpengine.netdna-ssl.com/wp-content/uploads/2015/01/bpf-s01e01.png</thumbnail>
-</dir>
+</item>
 
-<dir>
+<item>
     <title>S01E02 – “Weiss Lake”</title>
     <link>https://live.nkt.tv/embed?scheme=embedVod&videoId=91&autoplay=no&showChat=no</link>
     <thumbnail>https://2gucxendoeg2g4ktk1g2f5ik-wpengine.netdna-ssl.com/wp-content/uploads/2015/01/bpf-s01e02.jpg</thumbnail>
-</dir>
+</item>
 
-<dir>
+<item>
     <title>S01E03 – “Lake Lemon”</title>
     <link>https://live.nkt.tv/embed?scheme=embedVod&videoId=92&autoplay=no&showChat=no</link>
     <thumbnail>https://2gucxendoeg2g4ktk1g2f5ik-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/bpf-s01e03.jpg</thumbnail>
-</dir>
+</item>
 
-<dir>
+<item>
     <title>Title</title>
     <link>https://website.com</link>
     <thumbnail>https://picture.jpg</thumbnail>
-</dir>
+</item>
 
 </xml>
