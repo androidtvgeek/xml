@@ -3,7 +3,7 @@
 
 <dir>
     <title>Fluxus IPTV</title>
-    <link>https://pastebin.com/raw/8qXzQpZe</link>
+    <link>https://pastebin.com/raw/dzBiY3sw</link>
     <thumbnail>https://3.bp.blogspot.com/-l8hZAIikGhE/Wa-XKR-x4iI/AAAAAAAAA90/aLWcwSePvcEsB5Gtk6eIxmLzuLxiUvp5ACLcBGAs/s280/FluxusIPTVBlue.png</thumbnail>
 </dir>
 
@@ -17,28 +17,28 @@
 
 <dir>
     <title>Fluxus Radio</title>
-    <link>https://pastebin.com/raw/hkvkPyV1</link>
+    <link>https://pastebin.com/raw/EBCkmuVp</link>
     <thumbnail>https://1.bp.blogspot.com/-2sacJzhsgF4/Wa8zj4Fg6TI/AAAAAAAAA9Y/wlthXklvqpEBAft7QGENlkxYkIBlocpEwCLcBGAs/s280/FluxusRadioHoriz.png</thumbnail>
 </dir>
 
 
 <dir>
     <title>Fluxus CCTV</title>
-    <link>https://pastebin.com/raw/sAHKGzPA</link>
+    <link>https://pastebin.com/raw/QmQawzh4</link>
     <thumbnail>https://4.bp.blogspot.com/-B_ST8QBEdFc/WZypY7po-2I/AAAAAAAAA1w/Q4znCiax19k1MDQ_9ziqz6RVJMvhMrTuwCEwYBhgL/s280/fcctvhornew.png</thumbnail>
 </dir>
 
 
 <dir>
     <title>Fluxus Faith TV</title>
-    <link>https://pastebin.com/raw/C1AdE7Ek</link>
+    <link>https://pastebin.com/raw/PwN6MyA3</link>
     <thumbnail>https://4.bp.blogspot.com/-Lb7hLrRu-uk/WZYw5SggX8I/AAAAAAAAA0o/t2YR9XI8xk4101lVb2w0UV5s1KKdKGz0wCLcBGAs/s280/FluxusFaithH.png</thumbnail>
 </dir>
 
 
 <dir>
     <title>Fluxus Lust</title>
-    <link>https://pastebin.com/raw/NzLxPCzB</link>
+    <link>https://pastebin.com/raw/t3Wx0Z5y</link>
     <thumbnail>https://3.bp.blogspot.com/-iEXS5Rp0LUM/WZ4plyRMU6I/AAAAAAAAA5Q/c4exNnCRyAsZ3JNDCIv6PCDAs3NzDDy1gCLcBGAs/s280/FluxusLustH.png</thumbnail>
 </dir>
 
