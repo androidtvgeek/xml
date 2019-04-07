@@ -2,13 +2,6 @@
 
 
 <dir>
-    <title>ArconaiTV(SportsDevil)</title>
-    <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/ArconaiTV.txt</link>
-    <thumbnail>https://github.com/jewbmx/xml/blob/master/img/ArconaiTVlogo.png?raw=true</thumbnail>
-</dir>
-
-
-<dir>
     <title>FluxusTV</title>
     <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/FluxusIPTV.txt</link>
     <thumbnail>https://1.bp.blogspot.com/-_-7n-gpLtrc/W9UZEG7eOKI/AAAAAAAAEJY/8Wue7tEfF283fMa0J1WvdGFQQ02a5MRQgCLcBGAs/s1600/fluxustv.png</thumbnail>
