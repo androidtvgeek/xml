@@ -23,8 +23,15 @@
 
 
 <plugin>
-    <title>PrimeStreams.tv</title>
-    <link>https://raw.githubusercontent.com/jewbmx/xml/master/lists/primestreams04-07-2019.m3u</link>
+    <title>SwiftStreamz TV</title>
+    <link>plugin://script.module.swiftstreamz/list_channels/20</link>
+    <thumbnail></thumbnail>
+</plugin>
+
+
+<plugin>
+    <title>SwiftStreamz Sports</title>
+    <link>plugin://script.module.swiftstreamz/list_channels/1</link>
     <thumbnail>http://www.jamesons-pattaya.com/sports_header.png</thumbnail>
 </plugin>
 
