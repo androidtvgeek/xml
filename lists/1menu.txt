@@ -23,14 +23,14 @@
 
 
 <plugin>
-    <title>TVTap</title>
+    <title>TVTap(External Plugin)</title>
     <link>plugin://script.module.tt/</link>
     <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
 </plugin>
 
 
 <plugin>
-    <title>Live NetTV</title>
+    <title>Live NetTV(External Plugin)</title>
     <link>plugin://script.module.livenettv.net/</link>
     <thumbnail>https://www.livenettv.to/img/Logo.png</thumbnail>
 </plugin>
