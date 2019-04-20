@@ -24,14 +24,14 @@
 
 <plugin>
     <title>SwiftStreamz TV</title>
-    <link>plugin://script.module.swiftstreamz/list_channels/20</link>
+    <link>plugin://script.module.livenet/list_channels/20</link>
     <thumbnail></thumbnail>
 </plugin>
 
 
 <plugin>
     <title>SwiftStreamz Sports</title>
-    <link>plugin://script.module.swiftstreamz/list_channels/1</link>
+    <link>plugin://script.module.livenet/list_channels/1</link>
     <thumbnail>http://www.jamesons-pattaya.com/sports_header.png</thumbnail>
 </plugin>
 
