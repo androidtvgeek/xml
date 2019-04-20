@@ -23,16 +23,16 @@
 
 
 <plugin>
-    <title>TapTV</title>
+    <title>TVTap</title>
     <link>plugin://script.module.tt/</link>
-    <thumbnail></thumbnail>
+    <thumbnail>http://tvtap.world/assets/img/footer-logo2.png</thumbnail>
 </plugin>
 
 
 <plugin>
-    <title>TapTV Sports</title>
-    <link>plugin://script.module.tt/list_channels/</link>
-    <thumbnail>http://www.jamesons-pattaya.com/sports_header.png</thumbnail>
+    <title>Live NetTV</title>
+    <link>plugin://script.module.livenettv.net/</link>
+    <thumbnail>https://www.livenettv.to/img/Logo.png</thumbnail>
 </plugin>
 
 
