@@ -23,15 +23,15 @@
 
 
 <plugin>
-    <title>SwiftStreamz TV</title>
-    <link>plugin://script.module.livenettv.net/list_channels/20</link>
+    <title>TapTV</title>
+    <link>plugin://script.module.tt/list_channels/20</link>
     <thumbnail></thumbnail>
 </plugin>
 
 
 <plugin>
-    <title>SwiftStreamz Sports</title>
-    <link>plugin://script.module.livenettv.net/list_channels/1</link>
+    <title>TapTV Sports</title>
+    <link>plugin://script.module.tt/list_channels/1</link>
     <thumbnail>http://www.jamesons-pattaya.com/sports_header.png</thumbnail>
 </plugin>
 
