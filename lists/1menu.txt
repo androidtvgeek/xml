@@ -24,14 +24,14 @@
 
 <plugin>
     <title>TapTV</title>
-    <link>plugin://script.module.tt/list_channels/20</link>
+    <link>plugin://script.module.tt/</link>
     <thumbnail></thumbnail>
 </plugin>
 
 
 <plugin>
     <title>TapTV Sports</title>
-    <link>plugin://script.module.tt/list_channels/1</link>
+    <link>plugin://script.module.tt/list_channels/</link>
     <thumbnail>http://www.jamesons-pattaya.com/sports_header.png</thumbnail>
 </plugin>
 
